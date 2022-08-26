@@ -1,7 +1,7 @@
 # Prediction of protein-ligand binding affinity by the hybrid quantum-classical deep learning algorithm
 
 ## 1. Introduction
-Paper on .
+Paper has been submitted.
 
 ![image]()
 
