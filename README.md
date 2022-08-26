@@ -6,29 +6,29 @@ Paper has been submitted.
 ![image]()
 
 ## 2. Dependency
-python
+python 3.8.12
 
-torch
+torch 1.10.0
 
-deepquantum
+deepquantum 2.0.0
 
-torch_geometric
+torch_geometric 2.0.4
 
-ogb
+ogb 1.3.3
 
-numpy
+numpy 1.21.2
 
-pandas
+pandas 1.3.4
 
-rdkit
+rdkit 2020.09.5
 
-tqdm
+tqdm 4.63.0
 
-sklearn
+sklearn 1.0.1
 
-scipy
+scipy 1.7.1
 
-
+(pip/conda install)
 ## 3. Usage
 unzip dataset.zip
 
