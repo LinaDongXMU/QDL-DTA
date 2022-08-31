@@ -3,7 +3,7 @@
 ## 1. Introduction
 Paper has been submitted.
 
-![image]()
+![image](https://github.com/LinaDongXMU/QDL-DTA/blob/main/Intro.png)
 
 ## 2. Dependency
 python 3.8.12
