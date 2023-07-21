@@ -1,9 +1,11 @@
 # Prediction of protein-ligand binding affinity by the hybrid quantum-classical deep learning algorithm
 
 ## 1. Introduction
-Paper has been submitted.
+Paper on https://onlinelibrary.wiley.com/doi/full/10.1002/qute.202300107.
 
 ![image](https://github.com/LinaDongXMU/QDL-DTA/blob/main/Intro.png)
+
+To cite: Dong, L.; Li, Y.; Liu, D.; Ji, Y.; Hu, B.; Shi, S.; Zhang, F.; Hu, J.; Qian, K.; Jin, X.; Wang, B., Prediction of Protein‐Ligand Binding Affinity by a Hybrid Quantum‐Classical Deep Learning Algorithm. Advanced Quantum Technologies 2023.
 
 ## 2. Dependency
 python 3.8.12
